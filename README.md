@@ -25,7 +25,7 @@
 ## ༄˖°.🍂.ೃ࿔*:･🎃My description ༄˖°.🍂.ೃ࿔*:･🎃
 "I'm a Computer Systems Engineering student at Tecnologico Nacional de Mexico, Campus Chihuahua II, currently in my eighth semester. I specialize in Full Stack Development with a focus on backend web development, proficient in Python, Java, SQL, Docker, Linux, and Networking."
 
-## ༄˖°.🍂.ೃ࿔*:･🎃My Skills ༄˖°.🍂.ೃ࿔*:･🎃
+## ( ◡̀ ̫ ◡́) ✧ My Skills ( ◡̀ ̫ ◡́) ✧
 | Area | Technologies |
 |---|---|
 | Backend | Django, MySQL, Spring Boot (Basic) |

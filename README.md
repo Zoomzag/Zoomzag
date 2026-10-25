@@ -19,14 +19,10 @@
                                                                                     `--`-'   
 ```
 
-<div style="background-color: #1e1e2e; padding: 16px; border-radius: 16px; font-family: sans-serif; font-size: 13px; font-weight: bold;">
-  <span style="background-color: #313244; color: #89b4fa; border: 1px solid #89b4fa; padding: 6px 12px; border-radius: 20px; display: inline-block; margin: 4px;">I use Arch btw</span>
-  <span style="background-color: #313244; color: #a6e3a1; border: 1px solid #a6e3a1; padding: 6px 12px; border-radius: 20px; display: inline-block; margin: 4px;">Debian Stable</span>
-  <span style="background-color: #313244; color: #fab387; border: 1px solid #fab387; padding: 6px 12px; border-radius: 20px; display: inline-block; margin: 4px;">Fedora Rawhide</span>
-  <span style="background-color: #313244; color: #f38ba8; border: 1px solid #f38ba8; padding: 6px 12px; border-radius: 20px; display: inline-block; margin: 4px;">Docker Container</span>
-</div>
-
-
+<a href="#"><img src="https://img.shields.io/badge/I_use_Arch_btw-89B4FA?style=for-the-badge&logo=archlinux&logoColor=11111B&labelColor=89B4FA&color=89B4FA"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Debian-A6E3A1?style=for-the-badge&logo=debian&logoColor=11111B&labelColor=A6E3A1&color=A6E3A1"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Fedora-FAB387?style=for-the-badge&logo=fedora&logoColor=11111B&labelColor=FAB387&color=FAB387"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Docker-CBA6F7?style=for-the-badge&logo=docker&logoColor=11111B&labelColor=CBA6F7&color=CBA6F7"/></a>
 
 ##  \(”˚☐˚)/ My description  \(”˚☐˚)/
 "I'm a Computer Systems Engineering student at Tecnologico Nacional de Mexico, Campus Chihuahua II, currently in my eighth semester. I specialize in Full Stack Development with a focus on backend web development, proficient in Python, Java, SQL, Docker, Linux, and Networking."

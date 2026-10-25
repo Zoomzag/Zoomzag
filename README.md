@@ -19,11 +19,12 @@
                                                                                     `--`-'   
 ```
 
-I use Arch btw <img alt="Arch Linux package" src="https://img.shields.io/archlinux/v/:repository/:architecture/:packageName"> 
-All roads lead to Debian <img alt="AUR Version" src="https://img.shields.io/aur/version/:packageName"> 
-It works on my machine <img alt="Fedora package" src="https://img.shields.io/fedora/v/:packageName"> 
-Merged with warnings and zero tests <img alt="GitHub lerna version" src="https://img.shields.io/github/lerna-json/v/:user/:repo">
-
+<div style="background-color: #1e1e2e; padding: 16px; border-radius: 16px; font-family: sans-serif; font-size: 13px; font-weight: bold;">
+  <span style="background-color: #313244; color: #89b4fa; border: 1px solid #89b4fa; padding: 6px 12px; border-radius: 20px; display: inline-block; margin: 4px;">I use Arch btw</span>
+  <span style="background-color: #313244; color: #a6e3a1; border: 1px solid #a6e3a1; padding: 6px 12px; border-radius: 20px; display: inline-block; margin: 4px;">Debian Stable</span>
+  <span style="background-color: #313244; color: #fab387; border: 1px solid #fab387; padding: 6px 12px; border-radius: 20px; display: inline-block; margin: 4px;">Fedora Rawhide</span>
+  <span style="background-color: #313244; color: #f38ba8; border: 1px solid #f38ba8; padding: 6px 12px; border-radius: 20px; display: inline-block; margin: 4px;">Docker Container</span>
+</div>
 
 
 

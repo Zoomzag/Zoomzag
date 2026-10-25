@@ -19,8 +19,8 @@
                                                                                     `--`-'   
 ```
 
-<img alt="AUR Version" src="https://img.shields.io/aur/version/:packageName">
-<img alt="Arch Linux package" src="https://img.shields.io/archlinux/v/:repository/:architecture/:packageName">
+<img alt="AUR Version" src="https://img.shields.io/aur/version/:packageName"> <img alt="Arch Linux package" src="https://img.shields.io/archlinux/v/:repository/:architecture/:packageName">
+
 
 
 <!--

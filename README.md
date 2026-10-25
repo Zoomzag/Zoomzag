@@ -22,7 +22,7 @@
 <img alt="AUR Version" src="https://img.shields.io/aur/version/:packageName"> <img alt="Arch Linux package" src="https://img.shields.io/archlinux/v/:repository/:architecture/:packageName">
 
 
-## ༄˖°.🍂.ೃ࿔*:･🎃My description ༄˖°.🍂.ೃ࿔*:･🎃
+## \(”˚☐˚)/ My description \(”˚☐˚)/
 "I'm a Computer Systems Engineering student at Tecnologico Nacional de Mexico, Campus Chihuahua II, currently in my eighth semester. I specialize in Full Stack Development with a focus on backend web development, proficient in Python, Java, SQL, Docker, Linux, and Networking."
 
 ## ( ◡̀ ̫ ◡́) ✧ My Skills ( ◡̀ ̫ ◡́) ✧

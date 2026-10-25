@@ -24,6 +24,36 @@
 
 ## ༄˖°.🍂.ೃ࿔*:･🎃My description ༄˖°.🍂.ೃ࿔*:･🎃
 "I'm a Computer Systems Engineering student at Tecnologico Nacional de Mexico, Campus Chihuahua II, currently in my eighth semester. I specialize in Full Stack Development with a focus on backend web development, proficient in Python, Java, SQL, Docker, Linux, and Networking."
+
+## ༄˖°.🍂.ೃ࿔*:･🎃My Skills ༄˖°.🍂.ೃ࿔*:･🎃
+Backend Django, MySQL, Spring Boot (Basic)
+Desarrollo Java, Python (Basic)
+Herramientas Git, Docker, Linux (Basic)
+Redes TCP/IP, Cisco Packet Tracer (Basic)
+
+## .𖥔 ݁ ˖🍁๋࣭ ⭑🍂༘⋆ I like it .𖥔 ݁ ˖🍁๋࣭ ⭑🍂༘⋆
+Read and play video games
+
+```text                                                                                                                             
+                                                                                                                                   
+    ,---,                              ,-.                                              ,--,                         ,---,   ,---, 
+  .'  .' `\                        ,--/ /|                                            ,--.'|                      ,`--.' |,`--.' | 
+,---.'     \              __  ,-.,--. :/ |                       ,---.           ,--, |  | :                      |   :  :|   :  : 
+|   |  .`\  |           ,' ,'/ /|:  : ' /            .--.--.    '   ,'\        ,'_ /| :  : '    .--.--.           :   |  ':   |  ' 
+:   : |  '  |  ,--.--.  '  | |' ||  '  /            /  /    '  /   /   |  .--. |  | : |  ' |   /  /    '          |   :  ||   :  | 
+|   ' '  ;  : /       \ |  |   ,''  |  :           |  :  /`./ .   ; ,. :,'_ /| :  . | '  | |  |  :  /`./          '   '  ;'   '  ; 
+'   | ;  .  |.--.  .-. |'  :  /  |  |   \          |  :  ;_   '   | |: :|  ' | |  . . |  | :  |  :  ;_            |   |  ||   |  | 
+|   | :  |  ' \__\/: . .|  | '   '  : |. \          \  \    `.'   | .; :|  | ' |  | | '  : |__ \  \    `.         '   :  ;'   :  ; 
+'   : | /  ;  ," .--.; |;  : |   |  | ' \ \          `----.   \   :    |:  | : ;  ; | |  | '.'| `----.   \        |   |  '|   |  ' 
+|   | '` ,/  /  /  ,.  ||  , ;   '  : |--'          /  /`--'  /\   \  / '  :  `--'   \;  :    ;/  /`--'  /        '   :  |'   :  | 
+;   :  .'   ;  :   .'   \---'    ;  |,'            '--'.     /  `----'  :  ,      .-./|  ,   /'--'.     /         ;   |.' ;   |.'  
+|   ,.'     |  ,     .-./        '--'                `--'---'            `--`----'     ---`-'   `--'---'          '---'   '---'    
+'---'        `--`---'                                                                                                              
+                                                                                                                                   
+
+```
+
+
 <!--
 **Zoomzag/Zoomzag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

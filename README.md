@@ -19,7 +19,7 @@
                                                                                     `--`-'   
 ```
 
-<a href="#"><img src="https://img.shields.io/badge/I_use_Arch_btw-89B4FA?style=for-the-badge&logo=archlinux&logoColor=11111B&labelColor=89B4FA&color=89B4FA"/></a>
+<a href="#"><img src="https://img.shields.io/badge/I_use_Arch_btw-1e1e2e?style=for-the-badge&logo=archlinux&logoColor=89B4FA&labelColor=1e1e2e&color=1e1e2e"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Debian-A6E3A1?style=for-the-badge&logo=debian&logoColor=11111B&labelColor=A6E3A1&color=A6E3A1"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Fedora-FAB387?style=for-the-badge&logo=fedora&logoColor=11111B&labelColor=FAB387&color=FAB387"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-CBA6F7?style=for-the-badge&logo=docker&logoColor=11111B&labelColor=CBA6F7&color=CBA6F7"/></a>

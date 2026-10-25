@@ -24,7 +24,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Docker-CBA6F7?style=for-the-badge&logo=docker&logoColor=11111B&labelColor=CBA6F7&color=CBA6F7"/></a>
 
 ##  \(”˚☐˚)/ My description  \(”˚☐˚)/
-"I'm a Computer Systems Engineering student at Tecnologico Nacional de Mexico, Campus Chihuahua II, currently in my eighth semester. I specialize in Full Stack Development with a focus on backend web development, proficient in Python, Java, SQL, Docker, Linux, and Networking."
+"Computer Systems Engineering student (8th semester) at Tecnológico Nacional de México, Campus Chihuahua II. Specializing in Backend Web Development with skills in Python, Java, SQL, Docker, Linux, and Networking."
 
 ## ( ◡̀ ̫ ◡́) ✧ My Skills ( ◡̀ ̫ ◡́) ✧
 | Area | Technologies |

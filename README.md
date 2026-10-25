@@ -26,33 +26,28 @@
 "I'm a Computer Systems Engineering student at Tecnologico Nacional de Mexico, Campus Chihuahua II, currently in my eighth semester. I specialize in Full Stack Development with a focus on backend web development, proficient in Python, Java, SQL, Docker, Linux, and Networking."
 
 ## ༄˖°.🍂.ೃ࿔*:･🎃My Skills ༄˖°.🍂.ೃ࿔*:･🎃
-Backend Django, MySQL, Spring Boot (Basic)
-Desarrollo Java, Python (Basic)
-Herramientas Git, Docker, Linux (Basic)
-Redes TCP/IP, Cisco Packet Tracer (Basic)
+|---|---|
+| Backend | Django, MySQL, Spring Boot (Basic) |
+| Desarrollo | Java, Python (Basic) |
+| Herramientas | Git, Docker, Linux (Basic) |
+| Redes | TCP/IP, Cisco Packet Tracer (Basic) |
 
 ## .𖥔 ݁ ˖🍁๋࣭ ⭑🍂༘⋆ I like it .𖥔 ݁ ˖🍁๋࣭ ⭑🍂༘⋆
 Read and play video games
 
-```text                                                                                                                             
-                                                                                                                                   
-                                                                                                ,---,                 
-                                                                                             ,`--.' |                 
-    ,---,                              ,-.           .--.--.                             ,--,|   :  :                 
-  .'  .' `\                        ,--/ /|          /  /    '.                         ,--.'||   |  '                 
-,---.'     \              __  ,-.,--. :/ |         |  :  /`. /    ,---.           ,--, |  | :'   :  |                 
-|   |  .`\  |           ,' ,'/ /|:  : ' /          ;  |  |--`    '   ,'\        ,'_ /| :  : ';   |.'.--.--.           
-:   : |  '  |  ,--.--.  '  | |' ||  '  /           |  :  ;_     /   /   |  .--. |  | : |  ' |'---' /  /    '          
-|   ' '  ;  : /       \ |  |   ,''  |  :            \  \    `. .   ; ,. :,'_ /| :  . | '  | |     |  :  /`./          
-'   | ;  .  |.--.  .-. |'  :  /  |  |   \            `----.   \'   | |: :|  ' | |  . . |  | :     |  :  ;_   
-|   | :  |  ' \__\/: . .|  | '   '  : |. \           __ \  \  |'   | .; :|  | ' |  | | '  : |__    \  \    `.
-'   : | /  ;  ," .--.; |;  : |   |  | ' \ \         /  /`--'  /|   :    |:  | : ;  ; | |  | '.'|    `----.   \
-|   | '` ,/  /  /  ,.  ||  , ;   '  : |--'         '--'.     /  \   \  / '  :  `--'   \;  :    ;   /  /`--'  /
-;   :  .'   ;  :   .'   \---'    ;  |,'              `--'---'    `----'  :  ,      .-./|  ,   /   '--'.     / 
-|   ,.'     |  ,     .-./        '--'                                     `--`----'     ---`-'      `--'---' 
-'---'        `--`---'                                                                                              
-                                                                                                                                                                                                                                                    
-
+```text
+         _    _        _        _            _       _    _            _          
+        /\ \ /\ \     /\_\     /\ \         / /\    / /\ /\ \         /\ \     _  
+       /  \ \\ \ \   / / /     \_\ \       / / /   / / //  \ \       /  \ \   /\_\
+      / /\ \ \\ \ \_/ / /      /\__ \     / /_/   / / // /\ \ \     / /\ \ \_/ / /
+     / / /\ \_\\ \___/ /      / /_ \ \   / /\ \__/ / // / /\ \ \   / / /\ \___/ / 
+    / / /_/ / / \ \ \_/      / / /\ \ \ / /\ \___\/ // / /  \ \_\ / / /  \/____/  
+   / / /__\/ /   \ \ \      / / /  \/_// / /\/___/ // / /   / / // / /    / / /   
+  / / /_____/     \ \ \    / / /      / / /   / / // / /   / / // / /    / / /    
+ / / /             \ \ \  / / /      / / /   / / // / /___/ / // / /    / / /     
+/ / /               \ \_\/_/ /      / / /   / / // / /____\/ // / /    / / /      
+\/_/                 \/_/\_\/       \/_/    \/_/ \/_________/ \/_/     \/_/       
+                                                                                  
 ```
 
 

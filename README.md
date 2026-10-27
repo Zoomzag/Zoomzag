@@ -26,7 +26,7 @@
 ##  \(”˚☐˚)/ My description  \(”˚☐˚)/
 "Computer Systems Engineering student (8th semester) at Tecnológico Nacional de México, Campus Chihuahua II. Specializing in Backend Web Development with skills in Python, Java, SQL, Docker, Linux, and Networking."
 
-##ᕙ( •̀ ᗜ •́ )ᕗ ✧ My Skills ᕙ( •̀ ᗜ •́ )ᕗ
+## ᕙ( •̀ ᗜ •́ )ᕗ ✧ My Skills ᕙ( •̀ ᗜ •́ )ᕗ
 | Area | Technologies |
 |---|---|
 | Backend | Django, MySQL, Spring Boot (Basic) |

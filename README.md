@@ -1,4 +1,4 @@
-## ༄˖°.🍂.ೃ࿔*:･🎃Hi there my name is Jesus ༄˖°.🍂.ೃ࿔*:･🎃
+##  ( -_•)ᡕᠵデᡁ᠊╾━💥 Hi there my name is Jesus ( -_•)ᡕᠵデᡁ᠊╾━💥
 
 ```text
                                                                                              
@@ -26,7 +26,7 @@
 ##  \(”˚☐˚)/ My description  \(”˚☐˚)/
 "Computer Systems Engineering student (8th semester) at Tecnológico Nacional de México, Campus Chihuahua II. Specializing in Backend Web Development with skills in Python, Java, SQL, Docker, Linux, and Networking."
 
-## ( ◡̀ ̫ ◡́) ✧ My Skills ( ◡̀ ̫ ◡́) ✧
+##ᕙ( •̀ ᗜ •́ )ᕗ ✧ My Skills ᕙ( •̀ ᗜ •́ )ᕗ
 | Area | Technologies |
 |---|---|
 | Backend | Django, MySQL, Spring Boot (Basic) |
@@ -34,7 +34,7 @@
 | Tools | Git, Docker, Linux (Basic) |
 | Networking | TCP/IP, Cisco Packet Tracer (Basic) |
 
-## .𖥔 ݁ ˖🍁๋࣭ ⭑🍂༘⋆ I like it .𖥔 ݁ ˖🍁๋࣭ ⭑🍂༘⋆
+## [+..••] I like it [+..••]
 Read and play video games
 
 ```text

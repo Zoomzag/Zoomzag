@@ -22,7 +22,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Debian-A6E3A1?style=for-the-badge&logo=debian&logoColor=11111B&labelColor=A6E3A1&color=A6E3A1"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Fedora-FAB387?style=for-the-badge&logo=fedora&logoColor=11111B&labelColor=FAB387&color=FAB387"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-CBA6F7?style=for-the-badge&logo=docker&logoColor=11111B&labelColor=CBA6F7&color=CBA6F7"/></a>
-<a href="https://static.rimac.dev/copy?text=losloyamillan@outlook.es">
+<a href="mailto:losloyamillan@outlook.es">
   <img src="https://img.shields.io/badge/Contact_Me-F2CDCD?style=for-the-badge&logo=microsoftoutlook&logoColor=11111B&labelColor=F2CDCD&color=F2CDCD" alt="Contact Me"/>
 </a>
 
